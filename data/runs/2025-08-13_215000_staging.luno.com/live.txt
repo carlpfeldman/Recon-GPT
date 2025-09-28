@@ -1,0 +1,9 @@
+ajax.staging.luno.com
+api.staging.luno.com
+app.staging.luno.com
+careers-o2o.staging.luno.com
+framer.staging.luno.com
+mobileapi.staging.luno.com
+trade.staging.luno.com
+ws.staging.luno.com
+www.staging.luno.com

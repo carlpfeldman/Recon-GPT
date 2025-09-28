@@ -1,0 +1,10 @@
+$ /Users/carlfeldman/Hacker_Tools/recon-gpt/.venv/bin/python -m src.cli run https://gestordepedidos.ifood.com.br --run-id 2025-09-08_093004 --httpx-threads 50 --httpx-rate 120 --nuclei-concurrency 60 --nuclei-rate 250 --nuclei-severity critical,high
+
+[+] Run directory: data/runs/2025-09-08_093004_gestordepedidos.ifood.com.br
+[+] Subfinder: gestordepedidos.ifood.com.br
+[i] No subdomains from subfinder; seeded subs.txt with base host.
+[+] DNSX: resolving hosts
+[+] HTTPX: probing
+[warn] httpx exited 2 with no stderr.
+[i] No live HTTP(S) URLs discovered.
+[i] No URLs to scan and no imported findings. Stopping before nuclei.

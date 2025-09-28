@@ -1,0 +1,6 @@
+cicd.hatching.io
+deploy.hatching.io
+git.hatching.io
+horse1.office.hatching.io
+horse2.ams5.hatching.io
+www.hatching.io

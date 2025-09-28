@@ -1,0 +1,6 @@
+esty.www.etsy.com
+http.www.etsy.com
+shop.www.etsy.com
+www.www.etsy.com
+zone1.www.etsy.com
+zone2.www.etsy.com

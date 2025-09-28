@@ -1,0 +1,14 @@
+$ /Users/carlfeldman/Hacker_Tools/recon-gpt/.venv/bin/python -m src.cli run hackerone.com --run-id 2025-09-08_124355 --httpx-threads 50 --httpx-rate 120 --nuclei-concurrency 60 --nuclei-rate 250 --nuclei-severity critical,high
+
+
+[stderr]
+Traceback (most recent call last):
+  File "<frozen runpy>", line 189, in _run_module_as_main
+  File "<frozen runpy>", line 159, in _get_module_details
+  File "<frozen importlib._bootstrap_external>", line 1074, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1004, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/carlfeldman/Hacker_Tools/recon-gpt/src/cli.py", line 2
+    from __future__ import annotations
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: from __future__ imports must occur at the beginning of the file

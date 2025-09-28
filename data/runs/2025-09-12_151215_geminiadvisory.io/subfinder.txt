@@ -1,0 +1,8 @@
+email.geminiadvisory.io
+go.geminiadvisory.io
+ing.kibana.geminiadvisory.io
+staging.geminiadvisory.io
+support.geminiadvisory.io
+testing.geminiadvisory.io
+vaccine.geminiadvisory.io
+www.geminiadvisory.io

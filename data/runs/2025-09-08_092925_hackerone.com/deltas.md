@@ -1,0 +1,29 @@
+# Deltas for 2025-09-08_092925_hackerone.com
+- New subdomains: 23
+- New URLs: 0
+- New findings: 0
+
+## New subdomains
+3d.hackerone.com
+events.hackerone.com
+links.hackerone.com
+support.hackerone.com
+forwarding.hackerone.com
+websockets.hackerone.com
+go.hackerone.com
+a.ns.hackerone.com
+mta-sts.forwarding.hackerone.com
+info.hackerone.com
+api.hackerone.com
+docs.hackerone.com
+b.ns.hackerone.com
+zendesk2.hackerone.com
+gslink.hackerone.com
+mta-sts.managed.hackerone.com
+resources.hackerone.com
+design.hackerone.com
+www.hackerone.com
+mta-sts.hackerone.com
+zendesk1.hackerone.com
+zendesk3.hackerone.com
+zendesk4.hackerone.com

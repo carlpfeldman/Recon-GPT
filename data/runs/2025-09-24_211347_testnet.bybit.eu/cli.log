@@ -1,0 +1,9 @@
+$ /Users/carlfeldman/Hacker_Tools/recon-gpt/.venv/bin/python -m src.cli run 'http://testnet.bybit.eu# domain[' --run-id 2025-09-24_211347 --httpx-threads 50 --httpx-rate 120 --nuclei-concurrency 60 --nuclei-rate 250 --nuclei-severity critical,high
+
+
+[stderr]
+Usage: python -m src.cli [OPTIONS] DOMAIN
+Try 'python -m src.cli --help' for help.
+╭─ Error ──────────────────────────────────────────────────────────────────────╮
+│ Got unexpected extra argument (http://testnet.bybit.eu# domain[)             │
+╰──────────────────────────────────────────────────────────────────────────────╯

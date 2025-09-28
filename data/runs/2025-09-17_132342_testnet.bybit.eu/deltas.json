@@ -1,0 +1,12 @@
+{
+  "run": "2025-09-17_132342_testnet.bybit.eu",
+  "new_subdomains": [],
+  "new_urls": [],
+  "new_findings": [],
+  "counts": {
+    "subs": 0,
+    "live": 0,
+    "urls": 0,
+    "findings": 0
+  }
+}

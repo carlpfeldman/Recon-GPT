@@ -1,0 +1,5 @@
+http://testnet.bybit.eu# domain[,interval_minutes]
+hackerone.com,60
+https://gestordepedidos.ifood.com.br,120
+example.com
+http://testnet.bybit.eu

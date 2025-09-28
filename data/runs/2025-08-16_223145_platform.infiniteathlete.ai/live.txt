@@ -1,0 +1,4 @@
+aimr.platform.infiniteathlete.ai
+any-region.platform.infiniteathlete.ai
+us-east-1.platform.infiniteathlete.ai
+us-west-2.platform.infiniteathlete.ai

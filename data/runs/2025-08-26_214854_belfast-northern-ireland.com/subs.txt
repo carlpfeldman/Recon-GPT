@@ -1,0 +1,8 @@
+cpanel.belfast-northern-ireland.com
+mail.belfast-northern-ireland.com
+autodiscover.belfast-northern-ireland.com
+webmail.belfast-northern-ireland.com
+www.belfast-northern-ireland.com
+cpcontacts.belfast-northern-ireland.com
+cpcalendars.belfast-northern-ireland.com
+webdisk.belfast-northern-ireland.com
